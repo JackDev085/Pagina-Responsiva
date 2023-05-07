@@ -1,6 +1,6 @@
 <h1 align="center">Página da Web https://devjack.vercel.app/</h1>
 <h3 align="center">Esta página foi desenvolvida por mim e aprimorada aos poucos. Ainda estou implementando novos recursos e tornando-o totalmente responsivo.</h3>
-- 🔭 Atualmente estou trabalhando no [Portifólio](https://devjack.vercel.app/projects/projects.html)
+- 🔭 Atualmente estou trabalhando no [Portifólio](https://devjack.vercel.app/projects/projects.html)<br<
 - 🌱 Estou atualmente aprendendo **como criar páginas da web**
 
 
