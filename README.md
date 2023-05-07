@@ -1,6 +1,7 @@
 <h1 align="center">Página da Web https://devjack.vercel.app/</h1>
 <h3 align="center">Esta página foi desenvolvida por mim e aprimorada aos poucos. Ainda estou implementando novos recursos e tornando-o totalmente responsivo.</h3>
-- 🔭 Atualmente estou trabalhando no [Portifólio](https://devjack.vercel.app/projects/projects.html)<br<
+- 🔭 Atualmente estou trabalhando no [Portifólio](https://devjack.vercel.app/projects/projects.html)
+
 - 🌱 Estou atualmente aprendendo **como criar páginas da web**
 
 
@@ -17,5 +18,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height=" 40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height=" 40"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images .githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
