@@ -5,15 +5,18 @@
 
   font-family: "Josefin Sans", sans-serif;
 }
+
+
 .div-main {
   /* ocupar todo o ângulo de visão da página*/
   height: 100vh;
   width: 100%;
   background-image:url("img/background.png");
-  background-size: cover;
-  background-position: center;
+  background-size:cover;
   background-color: #191919;
+
 }
+
 nav {
   display: flex;
   align-items: center;
@@ -24,7 +27,7 @@ nav {
 }
 .portifolio {
   color: #ffffff;
-  font-size: 40px;
+  font-size: 36px;
   font-weight: 500;
 }
 .portifolio span {
@@ -77,6 +80,7 @@ section img {
   border-radius: 100%;
   border: 2px solid #f9004d;
   margin-right: 30%;
+  display: block;
 }
 section div h2 {
   color: white;
@@ -126,18 +130,18 @@ section div a:hover {
 }
 .card h5 {
   color: #ffffff;
-  font-size: 24px;
+  font-size: 20px;
 }
 .card p {
-  font-size: 24px;
+  font-size: 16px;
   color: #d3c1c7;
   margin-top: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .card a {
   background-color: #f9004d;
   color: #ffffff;
-  padding: 10px 20px;
+  padding: 10px 10px;
   border-radius: 25px;
   cursor: pointer;
   transition: 0.5s;
@@ -173,8 +177,8 @@ footer h5 {
 footer p {
   color: white;
   font-size: 16px;
-  margin-top: 14px;
-  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 .social {
   display: flex;
